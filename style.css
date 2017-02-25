@@ -16,6 +16,7 @@ text-align: center;
 
 h2 {
 
+margin: 30px;
 text-align: center;
 color: rgb(104, 187, 285);
 
@@ -30,8 +31,14 @@ color: rgb(9, 30, 45);
 
 .study {
 
-border-color: red;
-border-radius: 5px;
+border-top: 2px solid rgb(9, 30, 45);
+
+}
+
+
+.experience {
+
+  border-top: 2px solid rgb(9, 30, 45);
 
 }
 
@@ -97,6 +104,7 @@ background-color: white;
 
 #footer {
 
-
+max-height: 200px;
+text-align: center;
 
 }
